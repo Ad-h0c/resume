@@ -15,14 +15,14 @@ website: https://github.com/Ad-h0c
 darkmode: false
 
 # Social links
-twitter_username: Adh0c_
+twitter_username: Adh0c__
 github_username:  Ad-h0c
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: siva-prakash-reddy-c
+linkedin_username: siva-prakash-reddy-c-7b63ab229
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siva Prakash and I'm a blockchain developer. As well as web developer. I am skilled in solidity and frameworks such as hardhat, and truffle. I also have hands-on experience with geth and ether.js.
+  Hi, my name's Siva Prakash and I'm a blockchain developer. As well as web developer. I am skilled in solidity and frameworks such as hardhat, and truffle. I also have hands-on experience with Geth and Etherjs.
+
   I am most skilled in: <mark>Solidity</mark>, <mark>Javascript</mark>, and <mark>Hardhat</mark>
 
 content:
