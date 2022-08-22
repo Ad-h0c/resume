@@ -70,7 +70,6 @@ content:
           I started this project as a way if learning <mark>DAPP development</mark> and it has since grown into a fully fledged app. I have learned many skills creating this project including solidity, web3js, wallet integration, bootstrap etc.
       - layout: top-middle
         title: Pharma-network
-        link: https://github.com/Ad-h0c/Pharma_network
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -80,7 +79,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is my final blockchain captsone project I made using the hyperledger project and nodejs to solve the drug drug counterfeiting problem.
+          This is my final blockchain captsone project I made using the <mark> hyperledger fabric </mark> and nodejs to solve the drug drug counterfeiting problem.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
