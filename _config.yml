@@ -69,7 +69,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>DAPP development</mark> and it has since grown into a fully fledged app. I have learned many skills creating this project including solidity, web3js, wallet integration, bootstrap etc.
-    content:
       - layout: top-middle
         title: P2P Lending And Borrowing
         link: https://github.com/Ad-h0c/p2plendingandborrowing
