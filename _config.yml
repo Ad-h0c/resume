@@ -48,9 +48,9 @@ linkedin_username: siva-prakash-reddy-c-7b63ab229
 # about_title: About Me
 about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siva Prakash and I'm a blockchain developer. As well as web developer. I am skilled in solidity and frameworks such as hardhat, and truffle. I also have hands-on experience with Geth and Etherjs.
+  A logical and responsible person with a strong foundation in blockchain development. Proficient in Solidity, javascript, and familiar with the hardhat and truffle frameworks. In his learning career, he developed KYC application using solidity, p2p lending, and swap applications. He has hands-on experience integrating various wallets into applications, bridges, and oracles. He is also familiar with basic cryptographic algorithms. Looking to start a career as an entry-level blockchain developer.
 
-  I am most skilled in: <mark>Solidity</mark> <mark>Javascript</mark> and <mark>Hardhat</mark>
+  I am most skilled in: <mark>Solidity</mark> <mark>Javascript</mark> and <mark>Ethereum</mark>
 
 content:
   - title: Projects # Title for the section
