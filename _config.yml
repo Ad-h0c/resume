@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: C Siva Prakash Reddy
+title: Aspairing Blockchain Developer
+email: reddycsivaprakash5@gmail.com
+website: https://github.com/Ad-h0c
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: @Adh0c_
+github_username:  Ad-h0c
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jekyll
+linkedin_username: Siva Prakash Reddy C
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,11 +46,10 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Siva Prakash and I'm a blockchain developer. As well as web developer. I am skilled in solidity and frameworks such as hardhat, and truffle. I also have hands-on experience with geth and ether.js.
+  I am most skilled in: <mark>Solidity</mark>, <mark>Javascript</mark>, and <mark>Hardhat</mark>
 
 content:
   - title: Projects # Title for the section
