@@ -79,7 +79,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is my final blockchain captsone project I made using the hyperledger fabric and nodejs to solve the drug drug counterfeiting problem.
+          This is my final blockchain captsone project I made using the hyperledger fabric and nodejs to solve the drug counterfeiting problem.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,7 +91,7 @@ content:
         quote: >
           The International Institute of Information Technology, Bangalore is a research university in Bangalore, India. The institute is a registered not-for-profit society funded jointly by the Government of Karnataka and the IT industry under a public-private partnership model.
         description: | # this will include new lines to allow paragraphs
-          During my time at IIT Bangalore I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as a student and learnt a lot about a healthy work life balance.
+          During my time at IIT Bangalore I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as a student and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time to learning other suitable skills needed for blockchain development.
       - layout: left
