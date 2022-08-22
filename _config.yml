@@ -30,10 +30,10 @@ linkedin_username: siva-prakash-reddy-c-7b63ab229
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Siva Prakash and I'm a blockchain developer. As well as web developer. I am skilled in solidity and frameworks such as hardhat, and truffle. I also have hands-on experience with Geth and Etherjs.
 
-  I am most skilled in: <mark>Solidity</mark>, <mark>Javascript</mark>, and <mark>Hardhat</mark>
+  I am most skilled in: <mark>Solidity</mark> <mark>Javascript</mark> and <mark>Hardhat</mark>
 
 content:
   - title: Projects # Title for the section
