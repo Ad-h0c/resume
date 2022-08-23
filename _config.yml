@@ -48,7 +48,7 @@ linkedin_username: siva-prakash-reddy-c-7b63ab229
 # about_title: About Me
 about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A logical and responsible person with a strong foundation in blockchain development. Proficient in Solidity, javascript, and familiar with the hardhat and truffle frameworks. In his learning career, he developed KYC application using solidity, p2p lending, and swap applications. He has hands-on experience integrating various wallets into applications, bridges, and oracles. He is also familiar with basic cryptographic algorithms. Looking to start a career as an entry-level blockchain developer.
+  A logical and responsible person with a strong foundation in blockchain development. Proficient in Solidity, javascript, and familiar with the hardhat and truffle frameworks. In my learning career, I have developed KYC application using solidity, p2p lending, and swap applications. I also have hands-on experience integrating various wallets into applications, bridges, and oracles. As well as familiar with basic cryptographic algorithms. Looking to start a career as an entry-level blockchain developer.
 
   I am most skilled in: <mark>Solidity</mark> <mark>Javascript</mark> and <mark>Ethereum</mark>
 
@@ -67,7 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning DAPP development and it has since grown into a fully fledged app. I have learned many skills creating this project including solidity, web3js, wallet integration, bootstrap etc.
+          I started this project to learn DAPP development and it has since grown into a fully fledged app. I have learned many skills creating this project including solidity, web3.js, wallet integration, bootstrap etc.
       - layout: top-middle
         title: Pharma-network
         # link_text: Project Website
@@ -79,7 +79,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is my final blockchain captsone project I made using the hyperledger fabric and nodejs to solve the drug counterfeiting problem.
+          This is my final blockchain captsone project I made using the hyperledger fabric and node.js to solve the drug counterfeiting problem.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,7 +91,7 @@ content:
         quote: >
           The International Institute of Information Technology, Bangalore is a research university in Bangalore, India. The institute is a registered not-for-profit society funded jointly by the Government of Karnataka and the IT industry under a public-private partnership model.
         description: | # this will include new lines to allow paragraphs
-          During my time at IIT Bangalore I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as a student and learnt a lot about a healthy work life balance.
+          During my time at IIIT Bangalore, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as a student and learnt a lot about a time management..
 
           I spent a lot of my free time to learning other suitable skills needed for blockchain development.
       - layout: left
@@ -101,7 +101,7 @@ content:
         quote: >
           Kristu Jayanti College, founded in the year 1999, managed by "Bodhi Niketan Trust", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate. The college is affiliated to Bengaluru North University. The college is recognized by UGC under the category 2 & 12. 
         description: | # this will include new lines to allow paragraphs
-          During my time at Kristu Jayanti College I learnt most of my key skills related to data science and analytics including the machine learning basics. 
+          During my time at Kristu Jayanti College I learnt most of my crucial skills related to data science and analytics including the machine learning basics. 
 
           I spent my free time learning front end development and writing new articles.
   - title: A Little More About Me
