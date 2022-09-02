@@ -79,15 +79,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is my final blockchain captsone project I made using the hyperledger fabric and node.js to solve the drug counterfeiting problem.
-      - layout: top-middle
-        title:
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/Ad-h0c
-        description: More projects in the git hub
-        
+          This is my final blockchain captsone project I made using the hyperledger fabric and node.js to solve the drug counterfeiting problem.       
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
