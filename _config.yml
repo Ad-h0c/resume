@@ -48,7 +48,7 @@ linkedin_username: siva-prakash-reddy-c-7b63ab229
 # about_title: About Me
 about_profile_image: images/Mypic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A logical and responsible person with a strong foundation in blockchain development. Proficient in Solidity, javascript, and familiar with the hardhat and truffle frameworks. In my learning career, I have developed KYC application using solidity, p2p lending, and swap applications. I also have hands-on experience integrating various wallets into applications, bridges, and oracles. As well as familiar with basic cryptographic algorithms. Looking to start a career as an entry-level blockchain developer.
+  A logical and responsible person with a strong foundation in blockchain development. Proficient in Solidity, javascript, and familiar with the hardhat and truffle frameworks. In my learning career, I have developed KYC application using solidity, p2p lending, and swap applications using solidity, ether.js and hardhat. I also have hands-on experience integrating various wallets into applications, bridges, and oracles. As well as familiar with basic cryptographic algorithms. Looking to start a career as an entry-level full-stack blockchain developer.
 
   I am most skilled in: <mark>Solidity</mark> <mark>Javascript</mark> and <mark>Ethereum</mark>
 
@@ -79,7 +79,19 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This is my final blockchain captsone project I made using the hyperledger fabric and node.js to solve the drug counterfeiting problem.       
+          This is my final blockchain captsone project I made using the hyperledger fabric and node.js to solve the drug counterfeiting problem.
+        - layout: top-middle
+        title: To-do-Dapp
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/Ad-h0c/To-do-Dapp
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          A fun project developed while learning React.js. While the smart contract is running on Goerli test net, the application is deployed to netlify.  I have learned many skills creating this project including solidity, ether.js, wallet integration, hydration, lazy loading etc.       
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
